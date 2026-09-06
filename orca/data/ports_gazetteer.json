@@ -1,0 +1,684 @@
+[
+  {
+    "id": "ratnagiri",
+    "name": "Ratnagiri",
+    "aliases": [
+      "ratnagiri",
+      "रत्नागिरीच्या",
+      "रत्नागिरी",
+      "रत्नागिरीजवळ"
+    ],
+    "state": "Maharashtra",
+    "lat": 16.9902,
+    "lon": 73.312,
+    "zone": "Konkan Coast"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai (Sassoon Docks / JNPT)",
+    "aliases": [
+      "मुंबईजवळ",
+      "bombay",
+      "बॉम्बे",
+      "mumbai",
+      "मुम्बई",
+      "मुंबई"
+    ],
+    "state": "Maharashtra",
+    "lat": 18.922,
+    "lon": 72.8347,
+    "zone": "North Konkan"
+  },
+  {
+    "id": "alibaug",
+    "name": "Alibaug",
+    "aliases": [
+      "alibaug",
+      "अलिबाग"
+    ],
+    "state": "Maharashtra",
+    "lat": 18.6414,
+    "lon": 72.8722,
+    "zone": "North Konkan"
+  },
+  {
+    "id": "harnai",
+    "name": "Harnai / Dapoli",
+    "aliases": [
+      "harnai",
+      "dapoli",
+      "हर्णे",
+      "दापोली"
+    ],
+    "state": "Maharashtra",
+    "lat": 17.81,
+    "lon": 73.09,
+    "zone": "Konkan Coast"
+  },
+  {
+    "id": "malvan",
+    "name": "Malvan",
+    "aliases": [
+      "malvan",
+      "मालवण"
+    ],
+    "state": "Maharashtra",
+    "lat": 16.0558,
+    "lon": 73.4687,
+    "zone": "South Konkan"
+  },
+  {
+    "id": "vengurla",
+    "name": "Vengurla",
+    "aliases": [
+      "vengurla",
+      "वेंगुर्ला"
+    ],
+    "state": "Maharashtra",
+    "lat": 15.86,
+    "lon": 73.63,
+    "zone": "South Konkan"
+  },
+  {
+    "id": "goa",
+    "name": "Goa / Panaji (Mormugao)",
+    "aliases": [
+      "goa",
+      "mormugao",
+      "मुरगाव",
+      "panaji",
+      "गोवा",
+      "गोवाजवळ",
+      "पणजी"
+    ],
+    "state": "Goa",
+    "lat": 15.4989,
+    "lon": 73.8278,
+    "zone": "Goa Coast"
+  },
+  {
+    "id": "karwar",
+    "name": "Karwar (Baithkol)",
+    "aliases": [
+      "कारवारजवळ",
+      "कारवार",
+      "karwar"
+    ],
+    "state": "Karnataka",
+    "lat": 14.8136,
+    "lon": 74.1298,
+    "zone": "Canara Coast"
+  },
+  {
+    "id": "tadadi",
+    "name": "Tadadi / Gokarna",
+    "aliases": [
+      "tadadi",
+      "gokarna",
+      "तडडी",
+      "गोकर्ण"
+    ],
+    "state": "Karnataka",
+    "lat": 14.52,
+    "lon": 74.35,
+    "zone": "Canara Coast"
+  },
+  {
+    "id": "bhatkal",
+    "name": "Bhatkal",
+    "aliases": [
+      "bhatkal",
+      "भटकल"
+    ],
+    "state": "Karnataka",
+    "lat": 13.97,
+    "lon": 74.55,
+    "zone": "Canara Coast"
+  },
+  {
+    "id": "malpe",
+    "name": "Malpe / Udupi",
+    "aliases": [
+      "माल्पे",
+      "udupi",
+      "malpe",
+      "मालपे",
+      "उडुपी"
+    ],
+    "state": "Karnataka",
+    "lat": 13.35,
+    "lon": 74.7,
+    "zone": "Canara Coast"
+  },
+  {
+    "id": "mangalore",
+    "name": "Mangalore (Old Port)",
+    "aliases": [
+      "मंगळूरु",
+      "mangaluru",
+      "mangalore",
+      "मंगळूरजवळ",
+      "मंगळूर",
+      "मंगलोर"
+    ],
+    "state": "Karnataka",
+    "lat": 12.8703,
+    "lon": 74.8806,
+    "zone": "Canara Coast"
+  },
+  {
+    "id": "kasaragod",
+    "name": "Kasaragod",
+    "aliases": [
+      "kasaragod",
+      "कासारगोड"
+    ],
+    "state": "Kerala",
+    "lat": 12.4996,
+    "lon": 74.9869,
+    "zone": "Malabar Coast"
+  },
+  {
+    "id": "kannur",
+    "name": "Kannur (Ayikkara)",
+    "aliases": [
+      "kannur",
+      "कन्नूर"
+    ],
+    "state": "Kerala",
+    "lat": 11.8745,
+    "lon": 75.3704,
+    "zone": "Malabar Coast"
+  },
+  {
+    "id": "calicut",
+    "name": "Calicut (Kozhikode / Beypore)",
+    "aliases": [
+      "calicut",
+      "kozhikode",
+      "beypore",
+      "कालीकट",
+      "कोझिकोड"
+    ],
+    "state": "Kerala",
+    "lat": 11.178,
+    "lon": 75.807,
+    "zone": "Malabar Coast"
+  },
+  {
+    "id": "kochi",
+    "name": "Kochi (Cochin Fishing Harbour)",
+    "aliases": [
+      "कोचीनजवळ",
+      "कोचिजवळ",
+      "कोच्चिजवळ",
+      "cochin",
+      "kochi",
+      "कोचीन",
+      "कोची",
+      "कोच्चि"
+    ],
+    "state": "Kerala",
+    "lat": 9.9312,
+    "lon": 76.2673,
+    "zone": "Malabar Coast"
+  },
+  {
+    "id": "alappuzha",
+    "name": "Alappuzha (Alleppey)",
+    "aliases": [
+      "alappuzha",
+      "alleppey",
+      "अलप्पुझा",
+      "अल्लेप्पी"
+    ],
+    "state": "Kerala",
+    "lat": 9.4981,
+    "lon": 76.3388,
+    "zone": "Malabar Coast"
+  },
+  {
+    "id": "kollam",
+    "name": "Kollam (Neendakara)",
+    "aliases": [
+      "kollam",
+      "neendakara",
+      "quilon",
+      "कोल्लम",
+      "नींदकरा"
+    ],
+    "state": "Kerala",
+    "lat": 8.943,
+    "lon": 76.538,
+    "zone": "Malabar Coast"
+  },
+  {
+    "id": "vizhinjam",
+    "name": "Vizhinjam",
+    "aliases": [
+      "vizhinjam",
+      "trivandrum",
+      "विझिंजम"
+    ],
+    "state": "Kerala",
+    "lat": 8.3813,
+    "lon": 76.9909,
+    "zone": "Travancore Coast"
+  },
+  {
+    "id": "kanyakumari",
+    "name": "Kanyakumari",
+    "aliases": [
+      "kanyakumari",
+      "कन्याकुमारी",
+      "कन्याकुमारीजवळ",
+      "cape comorin"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 8.0883,
+    "lon": 77.5385,
+    "zone": "South Tip"
+  },
+  {
+    "id": "colachel",
+    "name": "Colachel",
+    "aliases": [
+      "colachel",
+      "कोलाचेल"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 8.175,
+    "lon": 77.255,
+    "zone": "South Tip"
+  },
+  {
+    "id": "tuticorin",
+    "name": "Tuticorin (Thoothukudi)",
+    "aliases": [
+      "thoothukudi",
+      "tuticorin",
+      "थूथुकुडी",
+      "तुतिकोरिन",
+      "तूतीकोरिन"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 8.7642,
+    "lon": 78.1348,
+    "zone": "Gulf of Mannar"
+  },
+  {
+    "id": "rameswaram",
+    "name": "Rameswaram / Mandapam",
+    "aliases": [
+      "rameswaram",
+      "mandapam",
+      "pamban",
+      "रामेश्वरम",
+      "मंडपम"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 9.2876,
+    "lon": 79.3129,
+    "zone": "Palk Bay"
+  },
+  {
+    "id": "nagapattinam",
+    "name": "Nagapattinam",
+    "aliases": [
+      "nagapattinam",
+      "नागापट्टिनम"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 10.7672,
+    "lon": 79.8428,
+    "zone": "Coromandel Coast"
+  },
+  {
+    "id": "cuddalore",
+    "name": "Cuddalore",
+    "aliases": [
+      "cuddalore",
+      "कड्डालोर"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 11.748,
+    "lon": 79.7714,
+    "zone": "Coromandel Coast"
+  },
+  {
+    "id": "puducherry",
+    "name": "Puducherry",
+    "aliases": [
+      "puducherry",
+      "pondicherry",
+      "पुडुचेरी",
+      "पोंडिचेरी"
+    ],
+    "state": "Puducherry",
+    "lat": 11.9416,
+    "lon": 79.8083,
+    "zone": "Coromandel Coast"
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai (Kasimedu)",
+    "aliases": [
+      "चेन्नईजवळ",
+      "chennai",
+      "मद्रास",
+      "चेन्नई",
+      "madras"
+    ],
+    "state": "Tamil Nadu",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "zone": "Coromandel Coast"
+  },
+  {
+    "id": "krishnapatnam",
+    "name": "Krishnapatnam",
+    "aliases": [
+      "krishnapatnam",
+      "nellore",
+      "कृष्णपट्टनम"
+    ],
+    "state": "Andhra Pradesh",
+    "lat": 14.25,
+    "lon": 80.12,
+    "zone": "Coastal Andhra"
+  },
+  {
+    "id": "machilipatnam",
+    "name": "Machilipatnam",
+    "aliases": [
+      "machilipatnam",
+      "मछलीपट्टनम"
+    ],
+    "state": "Andhra Pradesh",
+    "lat": 16.18,
+    "lon": 81.13,
+    "zone": "Krishna Delta"
+  },
+  {
+    "id": "kakinada",
+    "name": "Kakinada",
+    "aliases": [
+      "kakinada",
+      "काकिनाडा",
+      "काकीनाडा"
+    ],
+    "state": "Andhra Pradesh",
+    "lat": 16.9891,
+    "lon": 82.2475,
+    "zone": "Godavari Coast"
+  },
+  {
+    "id": "visakhapatnam",
+    "name": "Visakhapatnam (Vizag Harbour)",
+    "aliases": [
+      "विजाग",
+      "vizag",
+      "विशाखापट्टनम",
+      "विशाखापट्टणम",
+      "visakhapatnam",
+      "वाइज़ैग"
+    ],
+    "state": "Andhra Pradesh",
+    "lat": 17.6868,
+    "lon": 83.2185,
+    "zone": "Northern Circars"
+  },
+  {
+    "id": "kalingapatnam",
+    "name": "Kalingapatnam / Bhavanapadu",
+    "aliases": [
+      "kalingapatnam",
+      "bhavanapadu",
+      "कलिंगपट्टनम"
+    ],
+    "state": "Andhra Pradesh",
+    "lat": 18.33,
+    "lon": 84.12,
+    "zone": "Northern Circars"
+  },
+  {
+    "id": "gopalpur",
+    "name": "Gopalpur",
+    "aliases": [
+      "gopalpur",
+      "गोपालपुर"
+    ],
+    "state": "Odisha",
+    "lat": 19.26,
+    "lon": 84.91,
+    "zone": "Utkal Coast"
+  },
+  {
+    "id": "puri",
+    "name": "Puri / Chandrabhaga",
+    "aliases": [
+      "puri",
+      "पुरी",
+      "chandrabhaga",
+      "पुरीच्या"
+    ],
+    "state": "Odisha",
+    "lat": 19.8135,
+    "lon": 85.8312,
+    "zone": "Utkal Coast"
+  },
+  {
+    "id": "paradip",
+    "name": "Paradip (Mahanadi Rivermouth)",
+    "aliases": [
+      "पारादीप",
+      "पारादीपजवळ",
+      "paradeep",
+      "paradip"
+    ],
+    "state": "Odisha",
+    "lat": 20.2644,
+    "lon": 86.6083,
+    "zone": "Utkal Coast"
+  },
+  {
+    "id": "dhamra",
+    "name": "Dhamra / Chandipur",
+    "aliases": [
+      "dhamra",
+      "chandipur",
+      "धामरा",
+      "चांदीपुर"
+    ],
+    "state": "Odisha",
+    "lat": 20.8,
+    "lon": 86.96,
+    "zone": "Utkal Coast"
+  },
+  {
+    "id": "digha",
+    "name": "Digha (Shankarpur)",
+    "aliases": [
+      "दीघा",
+      "digha",
+      "दीघाजवळ",
+      "shankarpur"
+    ],
+    "state": "West Bengal",
+    "lat": 21.6266,
+    "lon": 87.5074,
+    "zone": "Bengal Delta"
+  },
+  {
+    "id": "kakdwip",
+    "name": "Kakdwip / Fraserganj (Sundarbans)",
+    "aliases": [
+      "kakdwip",
+      "fraserganj",
+      "sundarbans",
+      "काकद्विप",
+      "सुंदरबन"
+    ],
+    "state": "West Bengal",
+    "lat": 21.87,
+    "lon": 88.18,
+    "zone": "Sundarbans Delta"
+  },
+  {
+    "id": "haldia",
+    "name": "Haldia",
+    "aliases": [
+      "haldia",
+      "हल्दिया"
+    ],
+    "state": "West Bengal",
+    "lat": 22.0667,
+    "lon": 88.0667,
+    "zone": "Hooghly Estuary"
+  },
+  {
+    "id": "porbandar",
+    "name": "Porbandar",
+    "aliases": [
+      "पोरबंदरजवळ",
+      "पोरबंदर",
+      "porbandar"
+    ],
+    "state": "Gujarat",
+    "lat": 21.6417,
+    "lon": 69.6293,
+    "zone": "Saurashtra Coast"
+  },
+  {
+    "id": "veraval",
+    "name": "Veraval (Somnath)",
+    "aliases": [
+      "somnath",
+      "वेरावल",
+      "सोमनाथ",
+      "वेरावळ",
+      "veraval"
+    ],
+    "state": "Gujarat",
+    "lat": 20.9077,
+    "lon": 70.3678,
+    "zone": "Saurashtra Coast"
+  },
+  {
+    "id": "okha",
+    "name": "Okha / Dwarka",
+    "aliases": [
+      "okha",
+      "dwarka",
+      "ओखा",
+      "द्वारका"
+    ],
+    "state": "Gujarat",
+    "lat": 22.4667,
+    "lon": 69.0667,
+    "zone": "Gulf of Kutch"
+  },
+  {
+    "id": "kandla",
+    "name": "Kandla / Deendayal Port",
+    "aliases": [
+      "kandla",
+      "mundra",
+      "कांदला",
+      "मुंद्रा"
+    ],
+    "state": "Gujarat",
+    "lat": 23.0033,
+    "lon": 70.2189,
+    "zone": "Gulf of Kutch"
+  },
+  {
+    "id": "surat_hazira",
+    "name": "Surat / Hazira",
+    "aliases": [
+      "surat",
+      "hazira",
+      "सूरत",
+      "हज़ीरा"
+    ],
+    "state": "Gujarat",
+    "lat": 21.1167,
+    "lon": 72.65,
+    "zone": "Gulf of Khambhat"
+  },
+  {
+    "id": "port_blair",
+    "name": "Port Blair",
+    "aliases": [
+      "पोर्ट ब्लेअर",
+      "port blair",
+      "पोर्ट ब्लेयर"
+    ],
+    "state": "Andaman & Nicobar",
+    "lat": 11.6234,
+    "lon": 92.7265,
+    "zone": "Andaman Sea"
+  },
+  {
+    "id": "havelock",
+    "name": "Swaraj Dweep (Havelock)",
+    "aliases": [
+      "havelock",
+      "swaraj dweep",
+      "हैवलॉक"
+    ],
+    "state": "Andaman & Nicobar",
+    "lat": 12.0,
+    "lon": 92.98,
+    "zone": "Andaman Sea"
+  },
+  {
+    "id": "campbell_bay",
+    "name": "Campbell Bay",
+    "aliases": [
+      "campbell bay",
+      "great nicobar",
+      "कैंपबेल बे"
+    ],
+    "state": "Andaman & Nicobar",
+    "lat": 6.99,
+    "lon": 93.93,
+    "zone": "Nicobar Islands"
+  },
+  {
+    "id": "kavaratti",
+    "name": "Kavaratti",
+    "aliases": [
+      "kavaratti",
+      "कवरत्ती"
+    ],
+    "state": "Lakshadweep",
+    "lat": 10.5667,
+    "lon": 72.6417,
+    "zone": "Lakshadweep Sea"
+  },
+  {
+    "id": "agatti",
+    "name": "Agatti Island",
+    "aliases": [
+      "agatti",
+      "अगत्ती"
+    ],
+    "state": "Lakshadweep",
+    "lat": 10.85,
+    "lon": 72.1833,
+    "zone": "Lakshadweep Sea"
+  },
+  {
+    "id": "minicoy",
+    "name": "Minicoy Island",
+    "aliases": [
+      "minicoy",
+      "मिनिकॉय"
+    ],
+    "state": "Lakshadweep",
+    "lat": 8.2833,
+    "lon": 73.05,
+    "zone": "Lakshadweep Sea"
+  }
+]

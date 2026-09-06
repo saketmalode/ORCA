@@ -1,0 +1,810 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_okha_pelagic",
+        "name": "Okha - Dwarka Continental Shelf PFZ",
+        "nearest_port": "Okha / Dwarka",
+        "bearing_deg": 280,
+        "distance_km": 36.5,
+        "depth_range_m": "45 - 75 m",
+        "sst_deg_c": 27.6,
+        "chlorophyll_mg_m3": 1.95,
+        "favourability_score": 91,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Indian Salmon, Hilsa, Pomfret, Ribbonfish",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            68.65,
+            22.52
+          ],
+          [
+            68.58,
+            22.48
+          ],
+          [
+            68.5,
+            22.42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_porbandar_shelf",
+        "name": "Porbandar Offshore Pelagic Corridor PFZ",
+        "nearest_port": "Porbandar",
+        "bearing_deg": 255,
+        "distance_km": 41.0,
+        "depth_range_m": "50 - 80 m",
+        "sst_deg_c": 27.9,
+        "chlorophyll_mg_m3": 1.75,
+        "favourability_score": 87,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Ribbonfish, Croakers, Cephalopods, Cuttlefish",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            69.24,
+            21.58
+          ],
+          [
+            69.17,
+            21.52
+          ],
+          [
+            69.09,
+            21.45
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_veraval_upwelling",
+        "name": "Veraval - Saurashtra Coastal Upwelling PFZ",
+        "nearest_port": "Veraval (Somnath)",
+        "bearing_deg": 210,
+        "distance_km": 32.0,
+        "depth_range_m": "35 - 60 m",
+        "sst_deg_c": 27.4,
+        "chlorophyll_mg_m3": 2.2,
+        "favourability_score": 93,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Carangids, Threadfin bream, Mackerel, Squids",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            70.18,
+            20.68
+          ],
+          [
+            70.1,
+            20.62
+          ],
+          [
+            70.02,
+            20.55
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_mumbai_offshore",
+        "name": "Mumbai Offshore Continental Slope PFZ",
+        "nearest_port": "Mumbai (Sassoon Docks / JNPT)",
+        "bearing_deg": 260,
+        "distance_km": 46.2,
+        "depth_range_m": "40 - 65 m",
+        "sst_deg_c": 28.4,
+        "chlorophyll_mg_m3": 1.62,
+        "favourability_score": 85,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Bombay Duck, Seer Fish, Croakers, Pomfret",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.42,
+            18.88
+          ],
+          [
+            72.36,
+            18.94
+          ],
+          [
+            72.28,
+            19.01
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_alibaug_frontal",
+        "name": "Alibaug - Murud Thermal Front PFZ",
+        "nearest_port": "Alibaug",
+        "bearing_deg": 245,
+        "distance_km": 27.0,
+        "depth_range_m": "30 - 55 m",
+        "sst_deg_c": 28.0,
+        "chlorophyll_mg_m3": 1.88,
+        "favourability_score": 89,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Sardine, Anchovies, Horse Mackerel",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.62,
+            18.52
+          ],
+          [
+            72.55,
+            18.46
+          ],
+          [
+            72.48,
+            18.39
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_ratnagiri_nw",
+        "name": "Ratnagiri North-West Pelagic PFZ Line",
+        "nearest_port": "Ratnagiri",
+        "bearing_deg": 295,
+        "distance_km": 28.5,
+        "depth_range_m": "35 - 55 m",
+        "sst_deg_c": 27.8,
+        "chlorophyll_mg_m3": 1.45,
+        "favourability_score": 88,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Indian Mackerel, Sardine, Tuna",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.08,
+            17.12
+          ],
+          [
+            73.02,
+            17.18
+          ],
+          [
+            72.95,
+            17.25
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_ratnagiri_sw",
+        "name": "Ratnagiri South-West Shelf Edge PFZ",
+        "nearest_port": "Ratnagiri",
+        "bearing_deg": 240,
+        "distance_km": 34.0,
+        "depth_range_m": "50 - 75 m",
+        "sst_deg_c": 28.1,
+        "chlorophyll_mg_m3": 1.82,
+        "favourability_score": 92,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Carangids, Ribbon fish, Pomfret",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.04,
+            16.85
+          ],
+          [
+            72.98,
+            16.81
+          ],
+          [
+            72.91,
+            16.76
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_malvan_coral",
+        "name": "Malvan - Vengurla Shelf Slope PFZ",
+        "nearest_port": "Malvan",
+        "bearing_deg": 265,
+        "distance_km": 29.0,
+        "depth_range_m": "40 - 65 m",
+        "sst_deg_c": 27.6,
+        "chlorophyll_mg_m3": 2.05,
+        "favourability_score": 90,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Kingfish (Surmai), Tuna, Trevally, Scad",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.22,
+            16.02
+          ],
+          [
+            73.15,
+            15.98
+          ],
+          [
+            73.08,
+            15.92
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_goa_west",
+        "name": "Goa West Coastal Upwelling PFZ",
+        "nearest_port": "Goa / Panaji (Mormugao)",
+        "bearing_deg": 270,
+        "distance_km": 31.0,
+        "depth_range_m": "30 - 50 m",
+        "sst_deg_c": 27.5,
+        "chlorophyll_mg_m3": 2.1,
+        "favourability_score": 90,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Mackerel, Anchovies, Sardine, Silver Pomfret",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.52,
+            15.51
+          ],
+          [
+            73.45,
+            15.48
+          ],
+          [
+            73.38,
+            15.42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_karwar_front",
+        "name": "Karwar - Baithkol Shelf Edge PFZ",
+        "nearest_port": "Karwar (Baithkol)",
+        "bearing_deg": 260,
+        "distance_km": 26.0,
+        "depth_range_m": "35 - 55 m",
+        "sst_deg_c": 27.8,
+        "chlorophyll_mg_m3": 2.25,
+        "favourability_score": 92,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Indian Mackerel, White Sardine, Snapper",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.88,
+            14.78
+          ],
+          [
+            73.81,
+            14.73
+          ],
+          [
+            73.74,
+            14.67
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_mangalore_shelf",
+        "name": "Mangalore - Malpe Pelagic Corridor PFZ",
+        "nearest_port": "Mangalore (Old Port)",
+        "bearing_deg": 275,
+        "distance_km": 35.0,
+        "depth_range_m": "40 - 70 m",
+        "sst_deg_c": 27.9,
+        "chlorophyll_mg_m3": 2.15,
+        "favourability_score": 91,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Oil Sardine, Seerfish, Barracuda, Squid",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.52,
+            12.92
+          ],
+          [
+            74.45,
+            12.97
+          ],
+          [
+            74.37,
+            13.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_calicut_upwelling",
+        "name": "Calicut - Beypore Coastal Front PFZ",
+        "nearest_port": "Calicut (Kozhikode / Beypore)",
+        "bearing_deg": 245,
+        "distance_km": 28.0,
+        "depth_range_m": "30 - 50 m",
+        "sst_deg_c": 27.7,
+        "chlorophyll_mg_m3": 2.4,
+        "favourability_score": 94,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Sardine, Anchovy, Mackerel, Prawns",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.54,
+            11.12
+          ],
+          [
+            75.46,
+            11.06
+          ],
+          [
+            75.38,
+            10.99
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_kochi_offshore",
+        "name": "Kochi Coastal Frontal Zone PFZ",
+        "nearest_port": "Kochi (Cochin Fishing Harbour)",
+        "bearing_deg": 250,
+        "distance_km": 24.5,
+        "depth_range_m": "25 - 45 m",
+        "sst_deg_c": 28.0,
+        "chlorophyll_mg_m3": 2.35,
+        "favourability_score": 94,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Oil Sardine, Mackerel, Squid, Cuttlefish",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.04,
+            9.91
+          ],
+          [
+            75.98,
+            9.87
+          ],
+          [
+            75.91,
+            9.81
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_kollam_neendakara",
+        "name": "Kollam - Neendakara Deep Slope PFZ",
+        "nearest_port": "Kollam (Neendakara)",
+        "bearing_deg": 235,
+        "distance_km": 30.0,
+        "depth_range_m": "45 - 80 m",
+        "sst_deg_c": 28.2,
+        "chlorophyll_mg_m3": 2.1,
+        "favourability_score": 90,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Deep Sea Prawns, Tuna, Billfish, Carangids",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.28,
+            8.88
+          ],
+          [
+            76.2,
+            8.81
+          ],
+          [
+            76.12,
+            8.74
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_vizhinjam_deep",
+        "name": "Vizhinjam - Wadge Bank Pelagic PFZ",
+        "nearest_port": "Vizhinjam",
+        "bearing_deg": 205,
+        "distance_km": 38.0,
+        "depth_range_m": "60 - 120 m",
+        "sst_deg_c": 28.3,
+        "chlorophyll_mg_m3": 1.9,
+        "favourability_score": 89,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Yellowfin Tuna, Skipjack, Marlin, Sailfish",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.82,
+            8.12
+          ],
+          [
+            76.75,
+            8.04
+          ],
+          [
+            76.67,
+            7.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_kanyakumari_confluence",
+        "name": "Kanyakumari - Three Seas Confluence PFZ",
+        "nearest_port": "Kanyakumari",
+        "bearing_deg": 160,
+        "distance_km": 29.0,
+        "depth_range_m": "50 - 90 m",
+        "sst_deg_c": 28.1,
+        "chlorophyll_mg_m3": 2.05,
+        "favourability_score": 92,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Tuna, Seerfish, Perches, Sharks",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.62,
+            7.85
+          ],
+          [
+            77.68,
+            7.78
+          ],
+          [
+            77.75,
+            7.71
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_tuticorin_mannar",
+        "name": "Tuticorin - Gulf of Mannar Thermal Edge PFZ",
+        "nearest_port": "Tuticorin (Thoothukudi)",
+        "bearing_deg": 120,
+        "distance_km": 33.0,
+        "depth_range_m": "35 - 65 m",
+        "sst_deg_c": 28.5,
+        "chlorophyll_mg_m3": 1.7,
+        "favourability_score": 86,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Carangids, Lethrinids, Sphyraena, Snapper",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.41,
+            8.68
+          ],
+          [
+            78.48,
+            8.61
+          ],
+          [
+            78.56,
+            8.53
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_chennai_east",
+        "name": "Chennai East Thermal Gradient PFZ",
+        "nearest_port": "Chennai (Kasimedu)",
+        "bearing_deg": 90,
+        "distance_km": 38.0,
+        "depth_range_m": "60 - 90 m",
+        "sst_deg_c": 28.9,
+        "chlorophyll_mg_m3": 1.2,
+        "favourability_score": 82,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Skipjack Tuna, Flying Fish, Sailfish, Seerfish",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.65,
+            13.08
+          ],
+          [
+            80.72,
+            13.15
+          ],
+          [
+            80.79,
+            13.22
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_visakhapatnam_se",
+        "name": "Visakhapatnam South-East Eddy PFZ",
+        "nearest_port": "Visakhapatnam (Vizag Harbour)",
+        "bearing_deg": 135,
+        "distance_km": 42.0,
+        "depth_range_m": "70 - 110 m",
+        "sst_deg_c": 28.6,
+        "chlorophyll_mg_m3": 1.55,
+        "favourability_score": 86,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Yellowfin Tuna, Seer Fish, Barracuda, Billfish",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.52,
+            17.48
+          ],
+          [
+            83.59,
+            17.41
+          ],
+          [
+            83.66,
+            17.33
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_paradip_offshore",
+        "name": "Paradip - Mahanadi Plume PFZ",
+        "nearest_port": "Paradip (Mahanadi Rivermouth)",
+        "bearing_deg": 110,
+        "distance_km": 37.0,
+        "depth_range_m": "35 - 65 m",
+        "sst_deg_c": 28.3,
+        "chlorophyll_mg_m3": 2.1,
+        "favourability_score": 93,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Hilsa shad, Silver Pomfret, Catfish, Sciaenids",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.95,
+            20.18
+          ],
+          [
+            87.03,
+            20.12
+          ],
+          [
+            87.11,
+            20.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_digha_shankarpur",
+        "name": "Digha - Shankarpur Coastal Front PFZ",
+        "nearest_port": "Digha (Shankarpur)",
+        "bearing_deg": 140,
+        "distance_km": 32.0,
+        "depth_range_m": "25 - 45 m",
+        "sst_deg_c": 28.2,
+        "chlorophyll_mg_m3": 2.45,
+        "favourability_score": 95,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Hilsa, Pomfret, Bombay Duck, Tiger Prawn",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            87.72,
+            21.42
+          ],
+          [
+            87.79,
+            21.36
+          ],
+          [
+            87.87,
+            21.29
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_port_blair_trench",
+        "name": "Port Blair - Andaman Trench Pelagic PFZ",
+        "nearest_port": "Port Blair",
+        "bearing_deg": 80,
+        "distance_km": 35.0,
+        "depth_range_m": "300 - 1200 m",
+        "sst_deg_c": 29.0,
+        "chlorophyll_mg_m3": 0.85,
+        "favourability_score": 88,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Bigeye Tuna, Swordfish, Blue Marlin, Dorado",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.05,
+            11.68
+          ],
+          [
+            93.12,
+            11.75
+          ],
+          [
+            93.2,
+            11.82
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_kavaratti_tuna",
+        "name": "Kavaratti - Lakshadweep Oceanic Ridge PFZ",
+        "nearest_port": "Kavaratti",
+        "bearing_deg": 220,
+        "distance_km": 25.0,
+        "depth_range_m": "200 - 800 m",
+        "sst_deg_c": 28.8,
+        "chlorophyll_mg_m3": 0.95,
+        "favourability_score": 90,
+        "advisory_type": "OFFICIAL_INCOIS_PFZ",
+        "species_association": "Skipjack Tuna, Yellowfin Tuna, Mahi Mahi, Wahoo",
+        "source": "INCOIS Marine Fisheries Advisory",
+        "valid_until": "2026-09-06T18:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.48,
+            10.42
+          ],
+          [
+            72.42,
+            10.35
+          ],
+          [
+            72.35,
+            10.28
+          ]
+        ]
+      }
+    }
+  ]
+}

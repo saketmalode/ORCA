@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "imbl_pakistan",
+        "name": "India - Pakistan Maritime Boundary (Sir Creek / Kori Creek Sector)",
+        "zone_type": "INTERNATIONAL_BOUNDARY",
+        "severity": "CRITICAL",
+        "restriction": "Strictly Prohibited. Cross-border violation risk. Vessel seizure risk.",
+        "authority": "Indian Coast Guard / BSF Water Wing",
+        "source": "National Hydrographic Office"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            68.166,
+            23.633
+          ],
+          [
+            68.0,
+            23.5
+          ],
+          [
+            67.75,
+            23.3
+          ],
+          [
+            67.5,
+            23.1
+          ],
+          [
+            67.0,
+            22.8
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "imbl_sri_lanka",
+        "name": "India - Sri Lanka International Maritime Boundary Line (IMBL)",
+        "zone_type": "INTERNATIONAL_BOUNDARY",
+        "severity": "CRITICAL",
+        "restriction": "Strictly Prohibited - International Border. Vessel seizure risk under bilateral treaty.",
+        "authority": "Indian Coast Guard / Sri Lanka Navy",
+        "source": "Ministry of External Affairs / National Hydrographic Office"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.833,
+            9.1
+          ],
+          [
+            79.533,
+            9.35
+          ],
+          [
+            79.366,
+            9.7
+          ],
+          [
+            79.5,
+            10.083
+          ],
+          [
+            80.05,
+            10.333
+          ],
+          [
+            80.333,
+            10.5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "imbl_bangladesh",
+        "name": "India - Bangladesh Maritime Boundary (Swatch of No Ground Sector)",
+        "zone_type": "INTERNATIONAL_BOUNDARY",
+        "severity": "CRITICAL",
+        "restriction": "International Maritime Border (ITLOS Delimitation Line). Unauthorized crossing prohibited.",
+        "authority": "Indian Coast Guard North-East Region",
+        "source": "Ministry of External Affairs / ITLOS Judgement"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            89.15,
+            21.6
+          ],
+          [
+            89.25,
+            21.3
+          ],
+          [
+            89.4,
+            20.8
+          ],
+          [
+            89.6,
+            20.2
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mpa_gulf_of_kutch",
+        "name": "Marine National Park & Sanctuary Gulf of Kutch",
+        "zone_type": "MARINE_PROTECTED_AREA",
+        "severity": "HIGH",
+        "restriction": "Coral reef & mangrove biosphere sanctuary. Mechanized bottom trawling banned.",
+        "authority": "Gujarat Forest Department & MoEFCC",
+        "source": "MoEFCC Gazette Notification"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.1,
+              22.5
+            ],
+            [
+              70.1,
+              22.75
+            ],
+            [
+              70.1,
+              22.45
+            ],
+            [
+              69.1,
+              22.3
+            ],
+            [
+              69.1,
+              22.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mpa_malvan",
+        "name": "Malvan Marine Wildlife Sanctuary",
+        "zone_type": "MARINE_PROTECTED_AREA",
+        "severity": "HIGH",
+        "restriction": "Marine sanctuary - Coral reef and turtle nesting conservation. Restricted fishing zone.",
+        "authority": "Maharashtra Forest Department",
+        "source": "MoEFCC Gazette Notification"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.43,
+              16.08
+            ],
+            [
+              73.5,
+              16.08
+            ],
+            [
+              73.5,
+              16.02
+            ],
+            [
+              73.43,
+              16.02
+            ],
+            [
+              73.43,
+              16.08
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mpa_gulf_of_mannar",
+        "name": "Gulf of Mannar Marine National Park",
+        "zone_type": "MARINE_PROTECTED_AREA",
+        "severity": "HIGH",
+        "restriction": "Ecologically Sensitive Biosphere - Commercial trawling and mechanized fishing prohibited.",
+        "authority": "Tamil Nadu Forest Department & MoEFCC",
+        "source": "MoEFCC / Wildlife Institute of India"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.9,
+              9.15
+            ],
+            [
+              79.35,
+              9.3
+            ],
+            [
+              79.25,
+              9.05
+            ],
+            [
+              78.85,
+              8.95
+            ],
+            [
+              78.9,
+              9.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mpa_gahirmatha",
+        "name": "Gahirmatha Marine Sanctuary",
+        "zone_type": "MARINE_PROTECTED_AREA",
+        "severity": "HIGH",
+        "restriction": "Olive Ridley turtle mass nesting sanctuary. Mechanized fishing banned within 20 km of coast.",
+        "authority": "Odisha Wildlife Wing",
+        "source": "Government of Odisha Gazette"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.75,
+              20.8
+            ],
+            [
+              87.15,
+              20.8
+            ],
+            [
+              87.1,
+              20.35
+            ],
+            [
+              86.7,
+              20.35
+            ],
+            [
+              86.75,
+              20.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "naval_mumbai_high",
+        "name": "Mumbai High Offshore Safety & Security Geofence",
+        "zone_type": "OFFSHORE_RESTRICTED",
+        "severity": "HIGH",
+        "restriction": "ONGC offshore installation safety zone. Unauthorised entry strictly prohibited under petroleum regulations.",
+        "authority": "Indian Navy / Coast Guard / ONGC",
+        "source": "Directorate General of Shipping Notices to Mariners"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.2,
+              19.65
+            ],
+            [
+              71.65,
+              19.65
+            ],
+            [
+              71.65,
+              19.15
+            ],
+            [
+              71.2,
+              19.15
+            ],
+            [
+              71.2,
+              19.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ratnagiri_naval_firing_range",
+        "name": "Ratnagiri Offshore Defense Exercise Area",
+        "zone_type": "MILITARY_EXERCISE_ZONE",
+        "severity": "HIGH",
+        "restriction": "Periodic naval surface gunnery and coastal surveillance exercise grid. Check Notices to Mariners.",
+        "authority": "Indian Navy Western Naval Command",
+        "source": "Naval Hydrographic Office Notice 412"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.85,
+              17.15
+            ],
+            [
+              73.15,
+              17.15
+            ],
+            [
+              73.15,
+              16.85
+            ],
+            [
+              72.85,
+              16.85
+            ],
+            [
+              72.85,
+              17.15
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
